@@ -12,6 +12,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-
-prose:
-	media: '_includes'
+media: '_includes'
