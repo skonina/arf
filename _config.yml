@@ -14,5 +14,5 @@ github_username:  jekyll
 markdown: kramdown
 
 prose:
-	media: '{{ base.url }}/_includes'
+	media: '{{ site.baseurl }}/_includes'
 
